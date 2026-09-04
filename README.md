@@ -1,4 +1,7 @@
 # Archimedes-Local-AI-Agent
 Personal local AI-agent workstation built with Hermes, Qwen, NInfer, RAG, automations, mobile access, and reliability monitoring.
+
+
 **Overview**: Archimedes is a personal 24/7, local-first AI agent workstation built to run capable agentic workflows without relying on hosted model APIs. Core inference and knowledge remain on-device, with persistent memory, document RAG, mobile access, productivity integrations, scheduled automations, and external reliability monitoring. This allows for greater data sovereignty and no per-token costs, effectively reducing my costs to nearly $0 (not counting electricity).
+
 Powered by a locally hosted Qwen 3.8-27B model on an RTX 5090, orchestrated through Hermes Agent and designed for privacy, persistence, extensibility, and continuous operation.
