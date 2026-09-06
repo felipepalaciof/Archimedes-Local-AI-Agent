@@ -24,6 +24,7 @@ Powered by a locally hosted Qwen 3.8-27B model on an RTX 5090, orchestrated thro
 
 
 **Simplified Architecture**
+
 <img width="822" height="394" alt="image" src="https://github.com/user-attachments/assets/18b9c87f-fcd4-4461-9d68-8f8711e60804" />
 
 
