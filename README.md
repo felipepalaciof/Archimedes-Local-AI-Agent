@@ -332,7 +332,7 @@ As Qwen3.8 Flash's release demonstrates, N-Grams are a very powerful tool which 
 
 While I currently still use Codex for coding tasks, I will look to implement a dedicated coding agent to execute, effectively transitioning Codex's role to orchestrator, reviewer, and debugger (which it excels at), while managing Qwen on implementation and action.
 
-**Computer Vision**
+**Improve Computer Vision**
 
 Computer vision is currently limited, and I have not tested it properly as I have other areas. I will more thoroughly progress this space and test more as a greater amount of use-cases begin to appear. 
 
