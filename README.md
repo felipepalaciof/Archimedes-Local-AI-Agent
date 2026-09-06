@@ -114,7 +114,7 @@ Since Archimedes is as an agent system and not a standalone chat model, the core
 
 ## Knowledge & RAG
 
-Archimedes separates durable knowledge from imported source documents, and both are searchable through QMD, but have different ownership and update paths. The Obsidian vault is a human-readable knowledge base, and File RAG is an ingestion pipeline for original documents. The two should not be collapsed into one undifferentiated memory folder.
+Archimedes separates durable knowledge from imported source documents, and both are searchable through QMD, but have different ownership and update paths. The Obsidian vault is a human-readable knowledge base, and File RAG is an ingestion pipeline for original documents. 
 
 **Memory & Knowledge Layers**
 
